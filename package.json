@@ -1,0 +1,24 @@
+{
+  "name": "vanilla-javascript-template",
+  "version": "1.0.0",
+  "description": "Basic javascript development environment.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "sass src/styles/main.scss public/styles/main.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thuannguyen13/vanilla-javascript-template.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thuannguyen13/vanilla-javascript-template/issues"
+  },
+  "homepage": "https://github.com/thuannguyen13/vanilla-javascript-template#readme",
+  "dependencies": {
+    "live-server": "^1.2.2",
+    "sass": "^1.57.1"
+  }
+}
